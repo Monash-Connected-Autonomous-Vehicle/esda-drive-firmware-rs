@@ -1,0 +1,1 @@
+Experimental reimplementation of ESDA-DriveFirmware in rust with esp_idf_hal
